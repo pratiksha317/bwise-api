@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://54.251.142.179:27017/bwise",
+  "jwtSecret": "mysecrettoken"
+}
